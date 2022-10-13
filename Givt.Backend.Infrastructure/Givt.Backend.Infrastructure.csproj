@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+	  <RootNamespace>Givt.TwoPointOh.Backend.Infrastructure</RootNamespace>
+
+  </PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Constructs" Version="10.1.130" />
+		<PackageReference Include="HashiCorp.Cdktf.Providers.Azurerm" Version="3.0.12" />
+	</ItemGroup>
+</Project>

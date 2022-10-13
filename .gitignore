@@ -1,0 +1,6 @@
+﻿.vs
+**/bin/*
+**/obj/*
+Givt.Backend.Api/appsettings.json
+Givt.Backend.Api/appsettings.Development.json
+Givt.Backend.Api/appsettings.Production.json

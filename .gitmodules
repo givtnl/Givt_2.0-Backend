@@ -1,0 +1,3 @@
+[submodule "dependencies/givtapicore"]
+	path = dependencies/givtapicore
+	url = git@bitbucket.org:nfcollect/givtapicore.git
